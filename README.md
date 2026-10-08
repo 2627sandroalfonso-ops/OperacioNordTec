@@ -8,11 +8,6 @@
 ## Índex
 
 * [Estat del projecte](#estat-del-projecte)
-* [Arquitectura de xarxa](#arquitectura-de-xarxa)
-* [Configuracions](#configuracions)
-* [Incidències i solucions](#incidències-i-solucions)
-* [Decisions tècniques](#decisions-tècniques)
-* [Reflexions tècniques](#reflexions-tècniques)
 
 ---
 
