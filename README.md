@@ -1,7 +1,7 @@
 # Operació Nord Tec
 
-**Nom i cognoms:** Sandro Alfonso Polo
-**Grup:** 1A ASIX
+#### **Nom:** Sandro Alfonso Polo
+#### **Grup:** 1A ASIX
 
 ## Índex
 
