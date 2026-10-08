@@ -13,8 +13,11 @@
 
 ## Estat del projecte
 
-### Fet
-* res
+{}Fet
+
+{x}Pendent
+
+
 ### Pendent
 * tot
 ### Estat actual
