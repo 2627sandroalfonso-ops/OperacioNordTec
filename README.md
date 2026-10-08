@@ -19,12 +19,7 @@
 ## Estat del projecte
 
 ### Fet
-
-* Creació del repositori `OperacioNordTec`.
-* Creació del fitxer `README.md`.
-* Preparació de l'estructura de la documentació.
-* Configuració inicial del projecte.
-
+* res
 ### Pendent
 
 * Completar l'arquitectura de xarxa.
