@@ -19,9 +19,9 @@
 
 ## Estat del projecte
 
-# Fet
+### Fet
 res
-# Pendent
+### Pendent
 tot
 
 ## Arquitectura de xarxa 
